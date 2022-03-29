@@ -1,5 +1,5 @@
 # COGS-118A-Final-Project
-My final project for COGS 118A: Supervised Machine Learning Algorithms.
+My final project for COGS 118A: Supervised Machine Learning Algorithms. I've attached the final paper (written mostly in standard research paper format) and code for the analysis.
 
 
 ## Abstract
